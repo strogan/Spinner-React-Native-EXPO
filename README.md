@@ -1,5 +1,5 @@
 ﻿# Spinner React Native EXPO
-
-npm i
-npm run web
-then open expo app on phone
+To run project follow steps<br>
+npm i<br>
+npm run web<br>
+then open expo app on phone<br>
